@@ -9,3 +9,10 @@ C:\Users\USER\Desktop\Working\c#\Console App Mini Projects\Calculator Console Ap
 C:\Users\USER\Desktop\Working\c#\Console App Mini Projects\Calculator Console App\Calculator Console App\obj\Debug\Calculator Console App.csproj.CoreCompileInputs.cache
 C:\Users\USER\Desktop\Working\c#\Console App Mini Projects\Calculator Console App\Calculator Console App\obj\Debug\Calculator Console App.exe
 C:\Users\USER\Desktop\Working\c#\Console App Mini Projects\Calculator Console App\Calculator Console App\obj\Debug\Calculator Console App.pdb
+C:\Users\USER\Desktop\Working\c#\Mini-Projects\Calculator Console App\Calculator Console App\obj\Debug\Calculator Console App.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Working\c#\Mini-Projects\Calculator Console App\Calculator Console App\obj\Debug\Calculator Console App.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Working\c#\Mini-Projects\Calculator Console App\Calculator Console App\obj\Debug\Calculator Console App.exe
+C:\Users\USER\Desktop\Working\c#\Mini-Projects\Calculator Console App\Calculator Console App\obj\Debug\Calculator Console App.pdb
+C:\Users\USER\Desktop\Working\c#\Mini-Projects\Calculator Console App\Calculator Console App\bin\Debug\Calculator Console App.exe.config
+C:\Users\USER\Desktop\Working\c#\Mini-Projects\Calculator Console App\Calculator Console App\bin\Debug\Calculator Console App.exe
+C:\Users\USER\Desktop\Working\c#\Mini-Projects\Calculator Console App\Calculator Console App\bin\Debug\Calculator Console App.pdb
